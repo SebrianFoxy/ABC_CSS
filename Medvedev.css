@@ -1,31 +1,11 @@
-.first{
-    color:green;
-    font-size: 30px;
-}
-
-.two{
+#elem1{
     color:red;
-    font-size:15px;
 }
 
-.three{
-    color:red;
-    font-size:30px;
-}
-
-.four{
+#elem2{
     color:green;
-    font-size:15px;
 }
 
-.like{
-    color:firebrick
-}
-
-.good{
-    font-style: italic;
-}
-
-.amazing{
-    font-size: 35px;
+#elem3{
+    color:blue;
 }
