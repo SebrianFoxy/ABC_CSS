@@ -1,19 +1,7 @@
-div{
-    color:red;
+h2 {
+    font-size: 20px;
 }
 
-div h2{
-    color:blue;
-}
-
-#block p{
-    color:purple;
-}
-
-#block h2{
-    color:darkgreen;
-}
-
-div.fff h2.bbb{
-    color:darkorange;
+h2 {
+    font-size: 30px;
 }
