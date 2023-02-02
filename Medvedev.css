@@ -1,35 +1,27 @@
-.bbb.zzz {
-    color: red;
+#block h1, #block h2 {
+    text-align: center;
 }
 
-h2.bbb.zzz {
-    color: blue;
+#block h1, #block h2 {
+    text-align: center;
+    font-size: 30px, 20px;
 }
 
-#elem.bbb {
-    color: pink;
+#block h1, #block h2, #block h3{
+    text-align: center;
+    color:black, blue, red;
+    font-size:unset, unset, 16px;
 }
 
-#elem.bbb.zzz {
-    color:darkmagenta;
+#block h1.eee, #block h2.zzz {
+    text-align: center;
+    font-size: 30px, 20px;
 }
 
-h2#elem.bbb {
-    color:springgreen
+#eee h2, .eee h2.zzz, .xxx .kkk  {
+    text-align: center;
 }
 
-h2.zzz {
-    color:chocolate;
-}
-
-h2 .zzz {
-    color:darkorange;
-}
-
-.bbb.zzz.xxx {
-    color:deeppink;
-}
-
-.bbb .zzz.xxx {
-    color:darkred;
+.eee h2.zzz, .xxx {
+    text-align: center;
 }
