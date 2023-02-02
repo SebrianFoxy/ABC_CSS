@@ -1,3 +1,35 @@
-.eee.zzz.ccc{
-    color:red;
+.bbb.zzz {
+    color: red;
+}
+
+h2.bbb.zzz {
+    color: blue;
+}
+
+#elem.bbb {
+    color: pink;
+}
+
+#elem.bbb.zzz {
+    color:darkmagenta;
+}
+
+h2#elem.bbb {
+    color:springgreen
+}
+
+h2.zzz {
+    color:chocolate;
+}
+
+h2 .zzz {
+    color:darkorange;
+}
+
+.bbb.zzz.xxx {
+    color:deeppink;
+}
+
+.bbb .zzz.xxx {
+    color:darkred;
 }
