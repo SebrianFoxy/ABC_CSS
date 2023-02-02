@@ -1,7 +1,23 @@
-div *{
-    color:red;
+[title]{
+    color: red;
 }
 
-section *{
-    color:red;
+[title1]{
+    color:darkred;
+}
+
+p[title2='привет']{
+    color:blue;
+}
+
+a[href*="http://"]{
+    color:saddlebrown;
+}
+
+a[href*=".html"] {
+    color:purple;
+}
+
+.top-{
+    color:darkorange;
 }
