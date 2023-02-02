@@ -1,27 +1,19 @@
-#block h1, #block h2 {
-    text-align: center;
+div{
+    color:red;
 }
 
-#block h1, #block h2 {
-    text-align: center;
-    font-size: 30px, 20px;
+div h2{
+    color:blue;
 }
 
-#block h1, #block h2, #block h3{
-    text-align: center;
-    color:black, blue, red;
-    font-size:unset, unset, 16px;
+#block p{
+    color:purple;
 }
 
-#block h1.eee, #block h2.zzz {
-    text-align: center;
-    font-size: 30px, 20px;
+#block h2{
+    color:darkgreen;
 }
 
-#eee h2, .eee h2.zzz, .xxx .kkk  {
-    text-align: center;
-}
-
-.eee h2.zzz, .xxx {
-    text-align: center;
+div.fff h2.bbb{
+    color:darkorange;
 }
