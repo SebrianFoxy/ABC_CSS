@@ -1,3 +1,7 @@
-#elem ~ li{
-    color:blue;
+div *{
+    color:red;
+}
+
+section *{
+    color:red;
 }
