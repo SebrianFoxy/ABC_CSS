@@ -1,7 +1,7 @@
 #elem {
     border-width: 6px;
     border-style: solid;
-    border-color: blue;
+    border-color: red;
     width: 300px;
     height: 200px;
 }
@@ -10,7 +10,7 @@
     margin-top:2cm;
     border-width: 6px;
     border-style:dotted;
-    border-color: red;
+    border-color: blue;
     width: 300px;
     height: 200px;
 }
@@ -19,7 +19,7 @@
     margin-top: 2cm;
     border-width: 2px;
     border-style: dashed;
-    border-color: orange;
+    border-color: green;
     width: 300px;
     height: 200px;
 }
@@ -28,18 +28,18 @@
     margin-top: 2cm;
     border-width: 4px;
     border-style:ridge;
-    border-color: blue;
+    border-color: orange;
     width: 300px;
     height: 200px;
 }
 
 #elem4 {
-    transform:translateY(-200px);
+    transform:translateY(-280px);
     margin-left: 20px;
-    margin-top: 8px;
+    margin-top: 88px;
     border-width: 4px;
     border-style: ridge;
-    border-color: blue;
+    border-color: orange;
     width: 250px;
     height: 170px;
 }
