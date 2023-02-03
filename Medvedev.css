@@ -1,7 +1,7 @@
-li:first-child{
+li:nth-child(odd){
     color:red;
 }
 
-li:last-child{
-    color:green
+li:nth-child(even) {
+    color: green;
 }
