@@ -1,7 +1,19 @@
-li:nth-child(odd){
+h2:first-of-type{
     color:red;
 }
 
-li:nth-child(even) {
-    color: green;
+h2:last-of-type{
+    color:blue
+}
+
+#zzz h2:nth-of-type(2){
+    color:yellow;
+}
+
+#zzz h2:nth-last-of-type(1) {
+    color:saddlebrown;
+}
+
+h2:only-of-type {
+    color: darkorchid;
 }
