@@ -1,12 +1,14 @@
-#one li:not(.elem){
-    color:red;
+#elem{
+    padding: 20px;
+    width: 10cm;
+    height: 5cm;
+    background-color: orange;
 }
 
-p:not(:first-child){
-    color:blue;
-}
-
-
-#three li:not(:last-child, :first-child){
-    color:blue;
+#elem1{
+    padding: 40px;
+    width: 10cm;
+    height: 5cm;
+    background-color: cyan;
+    color:white
 }
