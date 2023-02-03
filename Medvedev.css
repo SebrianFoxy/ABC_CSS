@@ -1,23 +1,16 @@
-[title]{
-    color: red;
+a:link {
+    color: blue;
 }
 
-[title1]{
-    color:darkred;
+a:visited {
+    color: green;
 }
 
-p[title2='привет']{
-    color:blue;
+a:hover {
+    color:red;
+    text-decoration: none;
 }
 
-a[href*="http://"]{
-    color:saddlebrown;
-}
-
-a[href*=".html"] {
-    color:purple;
-}
-
-.top-{
-    color:darkorange;
+a:active {
+    color: black;
 }
