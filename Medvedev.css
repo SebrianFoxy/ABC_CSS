@@ -1,23 +1,7 @@
-a.zzz {
-    color: red;
+li:first-child{
+    color:red;
 }
 
-a.zzz:hover {
-    text-decoration: none;
-}
-
-#block a.zzz {
-    color: red;
-}
-
-#block a.zzz:hover {
-    text-decoration: none;
-}
-
-.block a.zzz {
-    color: blue;
-}
-
-.block a.zzz:hover {
-    text-decoration: none;
+li:last-child{
+    color:green
 }
