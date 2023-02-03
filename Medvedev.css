@@ -1,11 +1,11 @@
-#elem ol {
-    list-style-type: lower-alpha;
+#parent {
+    width: 300px;
+    border: 1px solid blue;
+    border-style: dotted;
 }
 
-#elem1 ol {
-    list-style-type: lower-greek;
-}
-
-#elem2 ol {
-    list-style-type: upper-alpha;
+#child {
+    height: 100px;
+    border: 1px solid orange;
+    margin: 30px;
 }
