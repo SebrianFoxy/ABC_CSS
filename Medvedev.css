@@ -1,19 +1,12 @@
-h2:first-of-type{
+#one li:not(.elem){
     color:red;
 }
 
-h2:last-of-type{
-    color:blue
+p:not(:first-child){
+    color:blue;
 }
 
-#zzz h2:nth-of-type(2){
-    color:yellow;
-}
 
-#zzz h2:nth-last-of-type(1) {
-    color:saddlebrown;
-}
-
-h2:only-of-type {
-    color: darkorchid;
+#three li:not(:last-child, :first-child){
+    color:blue;
 }
