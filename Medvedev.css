@@ -1,11 +1,14 @@
 .parent {
     display: flex;
     flex-direction: row;
-    align-items: stretch;
+    align-items:flex-end;
     border: 3px solid red;
     height: 220px;
+    
 }
 
 .child {
+    height: 50px;
+    padding-right: 50px;
     border: 1px solid green;
 }
