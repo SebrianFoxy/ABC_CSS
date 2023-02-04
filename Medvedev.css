@@ -1,3 +1,19 @@
-span {
+#inline1 span {
     border: 1px solid red;
+}
+
+#inline1 span {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin-bottom: 20px;
+}
+
+#block1 span{
+    display: block;
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin-bottom: 20px;
 }
