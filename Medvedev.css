@@ -3,7 +3,7 @@
 }
 
 #wrapper {
-    width: 1000px;
+    width: 1100px;
     margin: 30px auto;
     border: 1px solid black;
 }
@@ -19,15 +19,22 @@
 }
 
 #content {
-    width: 780px;
+    width: 660px;
     height: 700px;
     padding: 20px;
     border: 1px solid black;
 }
 
-#sidebar {
+#left {
     width: 200px;
     margin-right: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#right {
+    width: 200px;
+    margin-left: 20px;
     padding: 20px;
     border: 1px solid black;
 }
