@@ -1,13 +1,11 @@
-div {
+.parent {
     border: 1px solid red;
-    text-align: justify;
 }
 
-p {
-    border: 1px solid green;
+.parent img {
+    float: left;
 }
 
-img {
-    float: right;
-    opacity: 0.5;
+.clearfix {
+    clear: both;
 }
