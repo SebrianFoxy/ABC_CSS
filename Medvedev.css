@@ -1,14 +1,10 @@
 div {
     width: 400px;
+    border: 1px solid red;
     text-align: justify;
-}
-
-.ev img {
-    float:right;
-    height: 90px;
 }
 
 img {
     float: left;
-    height: 90px;
+    width: 250px;
 }
