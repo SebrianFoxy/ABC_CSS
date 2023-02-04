@@ -1,11 +1,13 @@
 .parent {
     display: flex;
+    justify-content: space-between;
     width: 300px;
     height: 200px;
     border: 1px solid red;
 }
 
 .child {
+    justify-content: center;
     width: 80px;
     height: 50px;
     border: 1px solid green;
