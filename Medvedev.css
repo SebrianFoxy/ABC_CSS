@@ -1,17 +1,14 @@
 div {
-    width: 400px;
+    width: 999px;
     border: 1px solid red;
     text-align: justify;
 }
 
 p {
-    margin-left: 30px;
-    padding-left: 30px;
     border: 1px solid green;
 }
 
 img {
     float: left;
-    opacity: 0.5;
-    width: 100px;
+    margin-right: 30px;
 }
