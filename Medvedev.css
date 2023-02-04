@@ -1,19 +1,9 @@
-#elem1 {
-    width: 200px;
-    height: 150px;
-    border: 1px solid red;
-}
-
-#elem2 {
+#elem {
     position: absolute;
-    width: 100px;
-    height: 100px;
-    margin-left: 10px;
-    border: 1px solid green;
-}
+    top: 100px;
+    right: 100px;
+    bottom: 100px;
+    left: 100px;
 
-#elem3 {
-    width: 50px;
-    height: 150px;
-    border: 1px solid blue;
+    border: 1px solid green;
 }
