@@ -1,36 +1,15 @@
-#elem1 {
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    margin-top: 200px;
-    border: 1px solid red;
-    background-color: red;
+#parent {
+	width: 500px;
+	height: 300px;
+	margin: 0 auto;
+	border: 1px solid red;
+    background-color: aqua;
 }
-
-#elem2 {
-    position: absolute;
-    bottom: 0;
-    margin-bottom: 200px;
-    margin-left: 200px;
-    background-color: green;
-
-    width: 100px;
-    height: 100px;
-    border: 1px solid green;
-}
-
-#elem3{
-    position: absolute;
-    bottom: 0;
-    margin-bottom: 320px;
-    margin-left: 100px;
-    background-color: blue;
-    
-    width: 100px;
-    height: 100px;
-    border: 1px solid blue;
-}
-
-#elem4{
-    
+#child {
+    margin-left: 20px;
+    margin-top: 20px;
+	width: 150px;
+	height: 150px;
+	border: 1px solid green;
+    background-color: white;
 }
