@@ -4,7 +4,12 @@ div {
     text-align: justify;
 }
 
+p {
+    margin-left: 30px;
+    border: 1px solid green;
+}
+
 img {
     float: left;
-    width: 250px;
+    opacity: 0.5;
 }
