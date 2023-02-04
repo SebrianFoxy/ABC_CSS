@@ -1,6 +1,9 @@
 #elem {
-	padding: 30px;
-	width: 300px;
-	border: 1px solid red;
-	text-align: justify;
+    padding-top: 30px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    width: 300px;
+    border: 1px solid red;
+    text-align: justify;
 }
