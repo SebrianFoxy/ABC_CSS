@@ -4,6 +4,7 @@
     height: 100px;
     margin-top: 200px;
     border: 1px solid red;
+    background-color: red;
 }
 
 #elem2 {
@@ -11,6 +12,7 @@
     bottom: 0;
     margin-bottom: 200px;
     margin-left: 200px;
+    background-color: green;
 
     width: 100px;
     height: 100px;
@@ -22,8 +24,13 @@
     bottom: 0;
     margin-bottom: 320px;
     margin-left: 100px;
+    background-color: blue;
     
     width: 100px;
     height: 100px;
     border: 1px solid blue;
+}
+
+#elem4{
+    
 }
