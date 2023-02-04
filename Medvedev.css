@@ -1,10 +1,6 @@
-#parent {
-    width: 300px;
-    border: 1px solid orange;
-}
-
-#child {
-    height: 100px;
-    border: 1px dotted blue;
-    margin: 10px 20px 30px 40px;
+#elem {
+	padding: 30px;
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
 }
