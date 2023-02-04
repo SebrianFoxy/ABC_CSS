@@ -1,5 +1,4 @@
 div {
-    width: 999px;
     border: 1px solid red;
     text-align: justify;
 }
@@ -9,6 +8,6 @@ p {
 }
 
 img {
-    float: left;
-    margin-right: 30px;
+    float: right;
+    opacity: 0.5;
 }
