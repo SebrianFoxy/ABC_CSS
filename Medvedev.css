@@ -1,8 +1,9 @@
 .parent {
     display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: flex-end;
+    flex-direction: row;
+    align-items: center;
+    border: 3px solid red;
+    height: 220px;
 }
 
 .child {
