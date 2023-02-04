@@ -1,25 +1,17 @@
-.parent {
+.parent1 {
+    padding: 10px 0;
     border: 1px solid red;
+    text-align: center;
 }
 
-.child1 {
-    height: 100px;
-    width: 100px;
-    border: 1px solid green;
-    margin: 10px auto;
+.parent2 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: right;
 }
 
-.child2 {
-    height: 100px;
-    width: 150px;
-    border: 1px solid green;
-    margin: 10px auto;
+.parent3 {
+    padding: 10px 10px 10px 10px;
+    border: 1px solid red;
+    text-align: right;
 }
-
-.child3 {
-    height: 100px;
-    width: 200px;
-    border: 1px solid green;
-    margin: 10px auto;
-}
-
