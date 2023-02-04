@@ -2,44 +2,38 @@
     box-sizing: border-box;
 }
 
-body {
-    margin: 0;
+#wrapper {
+    width: 1000px;
+    margin: 30px auto;
+    border: 1px solid black;
 }
 
-.wrapper {
-    margin-bottom: 30px;
-}
-
-.wrapper.line {
-    background-color: red;
-    color: white;
-}
-
-.center1 {
-    background-color:#008040;
-    width: 3600px;
-    padding-left: 400px;
-    margin: 0 auto;
-    color:white;
-}
-
-.center {
-    width: 800px;
+#header {
+    height: 200px;
     padding: 20px;
-    margin: 0 auto;
+    border: 1px solid black;
 }
 
-.wrapper h1 {
-    margin: 0;
-    font: 40px "Times New Roman";
+#container {
+    display: flex;
 }
 
-.wrapper h2 {
-    margin: 0;
-    font: 25px "Times New Roman";
+#content {
+    width: 780px;
+    height: 700px;
+    padding: 20px;
+    border: 1px solid black;
 }
 
-.wrapper p {
-    font: 16px/1.4 Arial;
-    text-align: justify;
+#sidebar {
+    width: 200px;
+    margin-right: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#footer {
+    height: 200px;
+    padding: 20px;
+    border: 1px solid black;
 }
