@@ -6,10 +6,12 @@ div {
 
 p {
     margin-left: 30px;
+    padding-left: 30px;
     border: 1px solid green;
 }
 
 img {
     float: left;
     opacity: 0.5;
+    width: 100px;
 }
